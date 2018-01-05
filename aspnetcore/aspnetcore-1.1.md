@@ -17,7 +17,7 @@ uid: aspnetcore-1.1
 
 ASP.NET Core 1.1 includes the following new features:
 
-- [URL Rewriting Middleware](xref:fundamentals/url-rewriting)
+- [بازنویسی میان ابزار](xref:fundamentals/url-rewriting)
 - [Response Caching Middleware](xref:performance/caching/middleware)
 - [View Components as Tag Helpers](xref:mvc/views/view-components#invoking-a-view-component-as-a-tag-helper)
 - [Middleware as MVC filters](xref:mvc/controllers/filters#using-middleware-in-the-filter-pipeline)
